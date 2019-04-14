@@ -1,0 +1,213 @@
+html {
+    padding: 0px;
+    -webkit-app-region: no-drag;
+    -webkit-user-select: none;
+    /* scroll-behavior: unset; */
+}
+
+
+/* MENU ICONS ############################ */
+.title-bar-div{
+    -webkit-app-region: drag;
+    height: 25px;
+}
+
+.close-icon:hover{
+    color: #FF6384;
+}
+
+.min-icon:hover{
+    color: #FFCD56;
+}
+
+.close-icon,.min-icon{
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.menu-buttons{
+   -webkit-app-region: no-drag;
+   float: right;
+   /* margin-top: -38px; */
+   
+}
+
+.logo-div{
+    opacity: 0.8;
+    height: 20px;
+    width: auto;
+    float: left;
+    color: white;
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.app-name{
+    align: center;
+    height: 10px;
+    width: auto;
+    color: white;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    position: absolute;
+    margin-left: 47%;
+    opacity: 0.5;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-grey {
+    color: rgba(62, 74, 86, 1);
+}
+
+.text-grey-lit {
+    color: rgb(81, 96, 110);
+}
+
+
+.meter-con {
+    height: 300px;
+    width: 380px;
+    position: absolute;
+    padding-top: 20px;
+    margin-left: -40px;
+    
+    /* background-color: rgba(38, 45, 54, 1) */
+}
+
+.btm-legend-1{
+    margin-top: 10px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.speed-head{
+    margin-top: -5px;
+    margin-left: 75px;
+    margin-bottom: -5px;
+}
+
+.maxspeed-head{
+    margin-top: -5px;
+    margin-right: 75px;
+    margin-bottom: -5px;
+}
+
+.vendor-head{
+    margin-top: 25px;
+}
+
+.ram-module{
+    right: 500px;   
+}
+
+.disk-module{
+    position: absolute;
+    left: 850px;
+    top: 370px
+    /* top: 100px */
+}
+
+.gpu-module{
+    position: absolute;
+    left: 320px;
+    top: 370px
+}
+
+.gpu-status-icon{
+    margin-left: 95px;
+    font-size: 190px;
+}
+
+.side-board{
+    background-color: rgb(39, 45, 59);
+    border-radius: 5px;
+    margin-top: 25px;
+    position: absolute;
+    left: 600px;
+    width: 540px;
+    height: 655px;
+}
+
+.network-module{
+ margin-top: 2px;
+ height: 317px;
+}
+
+.network-chart{
+    /* width: 10px; */
+    width: 50px;
+    height: auto;
+    color: white;
+    overflow: hidden;
+    /* margin-top: -10px; */
+}
+
+.net-download {
+    /* left: 50px; */
+    margin-top: 5px;
+}
+
+.net-upload {
+float: left;
+margin-top: 5px;
+padding-right: 50px;
+margin-left: 120px;
+}
+
+.bios-module{
+    background-color: rgb(49, 56, 73);
+    border-radius: 5px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding-top: 10px;
+    /* background-blend-mode: color-burn; */
+}
+
+.bios-vendor{
+    margin-left: 15px;
+}
+
+.bios-rel-date{
+    margin-left: 300px;
+}
+
+.bios-version{
+    margin-left: 15px;
+    padding-bottom: 5px;
+}
+
+.bios-rev{
+    margin-left: 300px;
+    padding-bottom: 5px;
+}
+
+.battery-per{
+    margin-left: 300px;
+}
+
+.battery-avil{
+    margin-left: 20px;
+}
+
+.battery-status{
+    margin-left: 20px;
+    padding-bottom: 7px;
+}
