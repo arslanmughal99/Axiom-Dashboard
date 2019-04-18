@@ -6,7 +6,7 @@
 <p align="center">
   <h1 align="center">AXIOM DASHBOARD</h1>
 </p>
-<center><h6 style="margin-top: -10px">System Visual Performance Moniter For Desktops</h6></center>
+<h5 align="center">System Visual Performance Moniter For Desktops</h5>
 
 <div>
 <img src="https://i.imgur.com/jQaHSBL.png?1">
