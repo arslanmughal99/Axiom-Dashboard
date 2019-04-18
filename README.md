@@ -1,7 +1,11 @@
-<center><div>
-<img src="https://i.imgur.com/K0Rd1OA.png">
-</div></center>
-<center><h1>AXIOM DASHBOARD</h1></center>
+<div style="text-align:center">
+  <p align="center">
+    <img src="https://i.imgur.com/K0Rd1OA.png">
+  </p>
+</div>
+<p align="center">
+  <h1 align="center">AXIOM DASHBOARD</h1>
+</p>
 <center><h6 style="margin-top: -10px">System Visual Performance Moniter For Desktops</h6></center>
 
 <div>
@@ -14,7 +18,7 @@ Since this Application only made for practice and is under construction therefor
 
 
 
-Axiom Dashboard is a visual system performance monitor made with cross plateform technologies i.e [electron.js]([https://electronjs.org](https://electronjs.org/) and [react.js]([https://reactjs.org/](https://reactjs.org/) on the top of [electron-react-boilerplate]([https://github.com/electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 
+Axiom Dashboard is a visual system performance monitor made with cross plateform technologies i.e [electron.js]([https://electronjs.org](https://electronjs.org/)) and [react.js]([https://reactjs.org/](https://reactjs.org/)) on the top of [electron-react-boilerplate]([https://github.com/electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate))
 
 #### Installation :
 
